@@ -13,7 +13,7 @@
   "author": "Camila Canali",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-handlebars": "^3.1.0",
     "handlebars": "^4.1.2",
     "left-pad": "^1.3.0"
